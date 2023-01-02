@@ -1,2 +1,4 @@
 # twitter-airflow-data-engineering-project
-YouTube tutorial project
+Twitter streaming into aiflow/AWS ec2 and S3 destination
+
+
